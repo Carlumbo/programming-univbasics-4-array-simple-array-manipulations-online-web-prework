@@ -10,5 +10,5 @@ end
 def using_pop(contenients)
   updated_array = contenients.pop
 end
-def pop_with_args(dog_breeds, small_dogs)
-  updated_array= 
+def pop_with_args(dog_breeds)
+  small_dogs= dog_breeds.pop(2) 
