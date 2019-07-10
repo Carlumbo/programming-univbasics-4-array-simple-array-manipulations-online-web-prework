@@ -1,3 +1,3 @@
 def colors_in_the_rainbow
-  next_color=
+  next_color= "Violet"
   
