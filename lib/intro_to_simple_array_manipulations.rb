@@ -42,3 +42,6 @@ end
 def using_delete(instructors,string)
   no_offense_steven = instructors.delete("Steven")
 end
+
+def using_delete_at(array,integer)
+  new_array = array.deleteat
