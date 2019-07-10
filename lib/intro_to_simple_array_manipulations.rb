@@ -8,5 +8,5 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
 end
 
 def using_pop(contenients)
-  upadted_array = contenients.pop
+  updated_array = contenients.pop
 end
