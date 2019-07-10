@@ -1,4 +1,4 @@
-def colors_in_the_rainbow
+def using_push
   next_color= "violet"
-  uusing_push = colors_in_the_rainow.push(next_color)
+  updated_array = colors_in_the_rainow.push(next_color)
 end
